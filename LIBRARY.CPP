@@ -1,6 +1,5 @@
 #ifndef _LIBRARYCPP
-	#define _LIBRARYCPP
- 
+#define _LIBRARYCPP
 #include "LIBRARY.H"
 #include <string.h>
 #include <stdio.h>
