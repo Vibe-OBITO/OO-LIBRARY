@@ -1,1 +1,1 @@
-# OO-LIBRARY
+# OOП-LIBRARY
