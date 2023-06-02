@@ -18,14 +18,14 @@ git clone https://github.com/Vibe-OBITO/OOP-Library.git
 #include "OOB-LIBR/oob_core.h"
 ```
 
-3. Скомпилируйте свой код с OOB-LIBR:
+3. Скомпилируйте свой код с OOP-Library:
 ```
 g++ -o main.o main.cpp OOB-LIBR/oob_core.cpp
 ```
 
 Использование
 Создание объектов
-OOB-LIBR позволяет создавать объекты с помощью конструктора класса. Например:
+OOP-Library позволяет создавать объекты с помощью конструктора класса. Например:
 ```c++
 // Создание нового экземпляра класса Person
 Person person("John", 25);
